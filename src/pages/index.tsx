@@ -9,8 +9,6 @@ export default function Home() {
   return (
     <Layout title="Homepage">
       <h1>Software develper - Siddharaj Yadav</h1>
-
-
     </Layout>
   );
 }
